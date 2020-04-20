@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rent-a-tool/static/css/main.2990d9cb.chunk.css",
+    "main.js": "/rent-a-tool/static/js/main.880dbbc2.chunk.js",
+    "main.js.map": "/rent-a-tool/static/js/main.880dbbc2.chunk.js.map",
+    "runtime-main.js": "/rent-a-tool/static/js/runtime-main.03358c37.js",
+    "runtime-main.js.map": "/rent-a-tool/static/js/runtime-main.03358c37.js.map",
+    "static/css/2.7ad897a5.chunk.css": "/rent-a-tool/static/css/2.7ad897a5.chunk.css",
+    "static/js/2.d5a6157b.chunk.js": "/rent-a-tool/static/js/2.d5a6157b.chunk.js",
+    "static/js/2.d5a6157b.chunk.js.map": "/rent-a-tool/static/js/2.d5a6157b.chunk.js.map",
+    "index.html": "/rent-a-tool/index.html",
+    "precache-manifest.58a2c81874b3d0e3ce27a2e0eca6e0fb.js": "/rent-a-tool/precache-manifest.58a2c81874b3d0e3ce27a2e0eca6e0fb.js",
+    "service-worker.js": "/rent-a-tool/service-worker.js",
+    "static/css/2.7ad897a5.chunk.css.map": "/rent-a-tool/static/css/2.7ad897a5.chunk.css.map",
+    "static/css/main.2990d9cb.chunk.css.map": "/rent-a-tool/static/css/main.2990d9cb.chunk.css.map",
+    "static/js/2.d5a6157b.chunk.js.LICENSE.txt": "/rent-a-tool/static/js/2.d5a6157b.chunk.js.LICENSE.txt",
+    "static/media/no_image_placeholder.png": "/rent-a-tool/static/media/no_image_placeholder.eb7fbe77.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03358c37.js",
+    "static/css/2.7ad897a5.chunk.css",
+    "static/js/2.d5a6157b.chunk.js",
+    "static/css/main.2990d9cb.chunk.css",
+    "static/js/main.880dbbc2.chunk.js"
+  ]
+}
